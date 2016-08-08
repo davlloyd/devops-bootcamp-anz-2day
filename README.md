@@ -38,7 +38,6 @@ Participants should:
  - [CloudFoundry CLI](http://docs.cloudfoundry.org/devguide/installcf/) - install it from CloudFoundry.org or homebrew.
  - [Slack](http://slack.com) - we'll invite you.
  - [Trello](http://trello.com) - sign up for an account.
- - [Google Hangouts](http://hangouts.google.com) - make sure you have a working Google account and that you can join Hangouts.
  - [Python 2.7](https://www.python.org/downloads/release/python-2710/) - preinstalled on MacOS and your Linux VM.
 
 * *Required reading*
@@ -66,5 +65,5 @@ A basic outline of the course follows, on a day-by-day basis.  Throughout the co
 * Daily standup
 
 
-# Presenter Note
+### Presenter Note
 The Index.html file uses the remark.js (https://github.com/gnab/remark) tools to enable a browser based markdown (MD) file presenter. This is supported on a local machine if using Firefox but for other browswers you need to run it through a web service to address file access security issues. An easy way to address this is to run the python http server in the local directory *'python -m http.server'* and then browse to the page via port 5000 (i.e. http://localhost:5000)

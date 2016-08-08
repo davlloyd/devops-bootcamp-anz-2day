@@ -15,40 +15,19 @@
       }
       .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
     </style>
-    <script src="https://gnab.github.io/remark/downloads/remark-latest.min.js">
-    <script type="text/javascript">
-        function show_preso(val){
-            alert('here');
-            alert(val);
-            switch(val)
-            {
-                case 0:
-                    break;
-                case 1:
-                    break;
-                case 2:
-                    break;
-                case 3:
-                    break;
-                default:
-                    alert("Oops... that is unknown!");
-                    break;
-            }
-            //var slideshow = remark.create({ source:<%=slideset%> });
-        }
-    </script>
+    <script src="https://gnab.github.io/remark/downloads/remark-latest.min.js"></script>
   </head>
   <body>
     <select id="presentationchoice" onchange="remark.create({ sourceUrl: this.value })">
         <script>
-            
+
         </script>
         <option value="" selected>--Select Presentation---</option>
-        <option value="Day1-Part1-Tools.md">Day 1: Welcome</option>
-        <option value="Day1-Part1-12factorApp.md">Day 1: 12 Factor Apps</option>
-        <option value="Day1-Part1-Agile101.md">Day 1: Agile 101</option>
-        <option value="Day1-Part1-Git.md">Day 1: Git</option>
-        <option value="Day1-Part1-Tools.md">Day 1: Tools</option>
+        <option value="ANZ-Day1-12factorApp.md">Day 1: 12 Factor Apps</option>
+        <option value="ANZ-Day1-Agile101.md">Day 1: Agile 101</option>
+        <option value="ANZ-Day1-Git.md">Day 1: Git</option>
+        <option value="ANZ-Day1-Tools.md">Day 1: Tools</option>
+        <option value="ANZ-Day1-WhatIsCF.md">Day 1: What Is CF?</option>
     </select>
   </body>
 </html>

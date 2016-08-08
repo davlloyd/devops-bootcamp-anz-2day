@@ -55,31 +55,16 @@ Participants should:
 A basic outline of the course follows, on a day-by-day basis.  Throughout the course the proctor/instructor will participate both as a team member completing work as well as mentor for individual tasks (writing code if needed, etc), as well as guiding based on Agile principles.
 
 ####Day 1:
-* Get acclimated to the [tools](Day1-Part1-Tools.md) in use
-* Discuss basic [Agile methodology](Day1-Part2-Agile101.md) and [how to apply it](Day1-Part3-AgileHowTo.md)
+* Get working with the [tools] in use
+* 12 Factor Apps
+* Basic tutorial on GitHub / Source Code Management
+* Discuss basic Agile methodology and how to apply it
 * Do first Sprint Planning for team project, including story pointing.
+* Basic tutorial on CF concepts and provisioned services.
 
 ####Day 2:
 * Daily standup
-* Basic tutorial on GitHub / Source Code Management
-* 12 Factor Apps
-* Team works via collaborative methods (Slack, Asana, Google Hangouts, etc) to complete tasks committed for that day.
-* Optional: Vagrant & Packer
-
-####Day 3:
-* Daily standup
-* Basic tutorial on CF concepts and provisioned services.
-* Team works to produce basic working deployed application to CF by end of day
 
 
-####Day 4:
-* Daily standup
-* Basic tutorial on application instrumentation and management (logging, application performance analytics).
-* Team works to add monitoring and management to application, signs up for alerts, etc.
-* Optional: Lattice & Terraform & Container Scheduling
-
-#### Day 5:
-* Daily standup
-* Any last minute items finished/deployed as needed.
-* Sprint Retrospective conducted, along with Velocity analysis
-* Project presented to leadership team and proctors/instructors.
+# Presenter Note
+The Index.html file uses the remark.js (https://github.com/gnab/remark) tools to enable a browser based markdown (MD) file presenter. This is supported on a local machine if using Firefox but for other browswers you need to run it through a web service to address file access security issues. An easy way to address this is to run the python http server in the local directory *'python -m http.server'* and then browse to the page via port 5000 (i.e. http://localhost:5000)

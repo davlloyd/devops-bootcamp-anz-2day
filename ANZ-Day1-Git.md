@@ -67,11 +67,11 @@ Most open source projects are hosted and collaborated on here.
 ---
 
 # Clone the repo
-1. Did you do your prep?
+1. Did you do your prep??
 ```git clone https://github.com/davlloyd/devops-training-vagrant```
 
-2. Excercise
-```git clone https://github.com/davlloyd/devops-bootcamp-anz-python```
+2. Exercise
+```git clone https://github.com/deanjjackson/training-repo```
 
 ---
 

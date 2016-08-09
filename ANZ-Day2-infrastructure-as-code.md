@@ -1,6 +1,4 @@
 # Infrastructure As Code
-## 2015 Q2 EMC Accreditation
-## Jonas Rosland & Matt Cowger
 
 ---
 
@@ -132,6 +130,11 @@ Manual deployment of new trading software
 
 ---
 
+# Let's have a look
+
+![inline](images/rackhd-logo.png)
+
+---
 # Benefits
 
 Self documenting infrastructure

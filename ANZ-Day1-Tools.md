@@ -74,17 +74,6 @@ Makes on-boarding easy since new members of a team can see all the previous disc
 
 ---
 
-# HipChat
-
-Group and private chat with many integrations
-
-Has built in video calling, screen sharing and are more focused on enterprise
-
-Available on all platforms, work from anywhere
-
-![right fit](https://dc080p1pxrpu1.cloudfront.net/screenshots/14450/optimal.png)
-
----
 
 # Trello
 

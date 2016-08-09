@@ -1,13 +1,8 @@
 # Agile 101
 
-> - You can't gather all the requirements up front
-- The requirements you do gather **will** change
-- There is always more to do than time and money will allow
+> You can't gather all the requirements up front. The requirements you do gather **will** change. There is always more to do than time and money will allow.
 
 -- The Agile Samurai, J. Rasmusson
-
-^ Open this presentation with [Deckset](http://www.decksetapp.com/)
-^ Jonas
 
 ---
 
@@ -98,8 +93,8 @@ Heavy weight methodologies work in some instances, but there are high costs, and
 # Agile Follows Lean Thinking
 * Add nothing but value (eliminate waste)
 * Flow value from demand (delay commitment)
-* Minimize inventory (minimize intermediate artifacts)
-* Optimize across the organization
+* Minimise inventory (minimise intermediate artifacts)
+* Optimise across the organisation
 
 ---
 
@@ -114,7 +109,6 @@ Heavy weight methodologies work in some instances, but there are high costs, and
 * Customer collaboration over contract negotiation
 * Responding to change over following a plan.
 
->That is, while there is value in the items on the right, we value the items on the left more.
 
 ---
 
@@ -144,8 +138,8 @@ Heavy weight methodologies work in some instances, but there are high costs, and
 
 #12 Principles of Agile (cont)
 
-* Simplicity - the art of maximizing the amount of work not done - is essential.
-* The best architectures, requirements, and designs emerge from self-organizing teams.
+* Simplicity - the art of maximising the amount of work not done - is essential.
+* The best architectures, requirements, and designs emerge from self-organising teams.
 * At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behaviour accordingly.
 
 ---
@@ -174,7 +168,7 @@ With timeboxing, the deadline is fixed but the scope may be reduced
 
 Work focuses on the most important deliverables
 
-For this reason, timeboxing depends on the prioritization of deliverables to ensure that it is the project stakeholders who determine the important deliverables rather than software developers
+For this reason, timeboxing depends on the prioritisation of deliverables to ensure that it is the project stakeholders who determine the important deliverables rather than software developers
 
 ---
 
@@ -229,7 +223,7 @@ For this reason, timeboxing depends on the prioritization of deliverables to ens
 
 # Backlog
 
-The Product Owner is responsible for creating a list of things he/she wants done, called a backlog.  They have exclusive rights to prioritize this backlog of work.
+The Product Owner is responsible for creating a list of things he/she wants done, called a backlog.  They have exclusive rights to prioritise this backlog of work.
 
 ---
 
@@ -252,7 +246,7 @@ As an ops manager, I want that app to:
 
 The one person responsible for a project’s success
 
-The Product Owner leads the development effort by conveying his or her vision to the team, outlining work in the scrum backlog, and prioritizing it based on business value
+The Product Owner leads the development effort by conveying his or her vision to the team, outlining work in the scrum backlog, and prioritising it based on business value
 
 Determines what needs to be built in 30 days or less
 
@@ -280,7 +274,9 @@ He or she has no management authority within the team and may never commit to wo
 * Timeboxed to 4 hrs
 * This meeting is a _conversation_ between the Product Owner and the team
 * The team has the power to push back and voice concerns or impediments
-* Definition of 'done'
+* Go through the application and its code...full discussion.
+* Use Kanban Board (Trello, Asana whatever) to assign and prioritize tasks.
+* Play Sprint Poker to do estimates
 
 ---
 
@@ -307,4 +303,11 @@ He or she has no management authority within the team and may never commit to wo
 
 ---
 
+# Standup
+
+* Start everyday with a Standup
+* What you accomplished yesterday and what you plan to accomplish today
+* Try to focus on items related to the project
+* no more than a couple of minutes each
+* Great time to be social, but **Why 9:06?** 
 

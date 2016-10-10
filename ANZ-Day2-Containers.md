@@ -75,19 +75,10 @@ Since Docker 1.9 support foe external volume providers
 
 ### What About VMware?
 
-
+VIC vs Photon
 
 ### EMC Products
-Neutrino (Demo)
+Neutrino
 EMC{code} Products
-
----
-
-### Let's Play
-Rex-Ray Workshop
-
----
-
-### What are Unikernels
 
 
